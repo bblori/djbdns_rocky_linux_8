@@ -5,6 +5,6 @@
 Running the following command after the file is downloaded.
 
 ```
-sh ./install_djbdns.sh
+wget https://github.com/bblori/djbdns_rocky_linux_8/blob/master/install_djbdns.sh | sh ./install_djbdns.sh
 
 ```
