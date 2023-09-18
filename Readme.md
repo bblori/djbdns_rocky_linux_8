@@ -4,8 +4,7 @@
 
 Running the following command after the file is downloaded.
 
-````
+```
 sh ./install_djbdns.sh
 
 ```
-````
